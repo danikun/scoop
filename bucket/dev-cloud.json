@@ -1,7 +1,7 @@
 {
   "description": "Tool to work in Docplanner apps in a cloud environment",
   "homepage": "https://github.com/DocPlanner/dev-cloud",
-  "url": "https://api.github.com/repos/DocPlanner/dev-cloud/releases/assets/133735931",
+  "url": "https://api.github.com/repos/DocPlanner/dev-cloud/releases/assets/133735931#/dev-2.14.1-win-x64.zip",
   "extract_dir": "dev-cloud",
   "bin": "dev",
   "version": "2.14.1",
