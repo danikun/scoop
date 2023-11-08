@@ -6,5 +6,5 @@
   "bin": "dev.exe",
   "version": "2.14.1",
   "license": "Proprietary",
-  "depends": ["gh"]
+  "depends": ["gh", "kubectl", "devspace", "aws"]
 }
