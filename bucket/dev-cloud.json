@@ -1,10 +1,19 @@
 {
   "description": "Tool to work in Docplanner apps in a cloud environment",
-  "homepage": "https://github.com/DocPlanner/dev-cloud",
-  "url": "https://api.github.com/repos/DocPlanner/dev-cloud/releases/assets/133735931#/dev-2.14.1-win-x64.zip",
+  "homepage": "https://github.com/danikun/scoop",
+  "checkver": "github",
+  "autoupdate": {
+    "note": "Thanks for using autoupdate, please test your updates!",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/danikun/scoop/releases/download/$version/dev-$version-win-x64.zip"
+        }
+    }
+  },
+  "url": "https://github.com/danikun/scoop/releases/download/2.15.0/dev-2.15.0-win-x64.zip",
   "hash": "47e3f340bffcafe4631d17028337f217b7fbb47fd89ebc68552bc1147c873283",
   "bin": "dev.exe",
-  "version": "2.14.1",
+  "version": "2.15.0",
   "license": "Proprietary",
   "depends": ["gh", "kubectl", "devspace", "aws"]
 }
