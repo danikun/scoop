@@ -3,7 +3,6 @@
   "homepage": "https://github.com/danikun/scoop",
   "checkver": "github",
   "autoupdate": {
-    "note": "Thanks for using autoupdate, please test your updates!",
     "architecture": {
         "64bit": {
             "url": "https://github.com/danikun/scoop/releases/download/$version/dev-$version-win-x64.zip"
