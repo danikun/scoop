@@ -1,6 +1,6 @@
 {
   "description": "Tool to work in Docplanner apps in a cloud environment",
-  "homepage": "https://github.com/danikun/scoop",
+  "homepage": "https://github.com/danikun/scoop/",
   "checkver": "github",
   "autoupdate": {
     "architecture": {
@@ -10,6 +10,7 @@
     }
   },
   "url": "https://github.com/danikun/scoop/releases/download/2.15.0/dev-2.15.0-win-x64.zip",
+  "hash": "219b9c83332e69a5db44e1e70eb3b38b1ac09e8944adb621aabe6b64e9a12f92",
   "extract_dir": "",
   "bin": "dev.exe",
   "version": "2.15.0",
