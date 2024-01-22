@@ -10,7 +10,7 @@
     }
   },
   "url": "https://github.com/danikun/scoop/releases/download/2.15.0/dev-2.15.0-win-x64.zip",
-  "hash": "47e3f340bffcafe4631d17028337f217b7fbb47fd89ebc68552bc1147c873283",
+  "extract_dir": "",
   "bin": "dev.exe",
   "version": "2.15.0",
   "license": "Proprietary",
